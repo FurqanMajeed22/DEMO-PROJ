@@ -45,7 +45,7 @@
 <body>
   <div class="container">
     <h1>Hello World, I am Learning Devops</h1>
-    <h2>Congratulations! Your Application is Up and Running on a Web Server. Modiefied</h2>
+    <h2>Congratulations! Your Application is Up and Running on a Web Server.</h2>
   </div>
   <div class="footer">
     &copy; 2025 Your Company Name
